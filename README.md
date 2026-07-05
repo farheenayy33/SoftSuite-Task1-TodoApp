@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/8440d7ac-0e4b-4567-bce3-42c4e6632af8
 
 GitHub: https://github.com/farheenayy33
 
-LinkedIn: *Add your LinkedIn profile here*
+LinkedIn: *www.linkedin.com/in/farheen-laraib-943ba9404*
 
 ---
 
