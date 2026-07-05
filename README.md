@@ -30,7 +30,7 @@ A modern and responsive **Todo Application** built with **React**, **Vite**, and
 todo-app/
 │── public/
 │── src/
-│   ├── components/
+│   ├── Todo
 │   ├── assets/
 │   ├── App.jsx
 │   ├── main.jsx
@@ -72,8 +72,6 @@ npm run dev
 ## 📸 Project Preview
 
 ### Home Screen
-
-> Replace the image below with your own screenshot.
 
 ![Todo App Screenshot](assets/Todo1.png)
 
