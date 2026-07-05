@@ -1,16 +1,114 @@
-# React + Vite
+# 📝 Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Todo Application** built with **React**, **Vite**, and **Tailwind CSS**. This project helps users efficiently manage daily tasks with a clean user interface and seamless task management features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Features
 
-## React Compiler
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- 📱 Fully responsive design
+- ⚡ Fast performance with Vite
+- 🎨 Modern UI using Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
+```
+todo-app/
+│── public/
+│── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│── package.json
+│── vite.config.js
+│── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/farheenayy33/SoftSuite-Task1-TodoApp.git
+```
+
+### Navigate to Project
+
+```bash
+cd SoftSuite-Task1-TodoApp
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📸 Project Preview
+
+### Home Screen
+
+> Replace the image below with your own screenshot.
+
+![Todo App Screenshot](assets/Todo1.png)
+
+---
+
+## 🎥 Project Demo
+
+Watch the project demonstration below.
+
+https://github.com/user-attachments/assets/8440d7ac-0e4b-4567-bce3-42c4e6632af8
+
+
+---
+
+## 📈 Future Improvements
+
+- User Authentication
+- Dark Mode
+- Task Categories
+- Due Dates & Reminders
+- Drag & Drop Task Sorting
+- Cloud Data Storage
+
+---
+
+## 👩‍💻 Author
+
+**Farheen Laraib**
+
+GitHub: https://github.com/farheenayy33
+
+LinkedIn: *Add your LinkedIn profile here*
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
