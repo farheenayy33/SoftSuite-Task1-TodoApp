@@ -72,8 +72,7 @@ npm run dev
 ## 📸 Project Preview
 
 ### Home Screen
-
-![Todo App Screenshot](assets/Todo1.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a3756aa1-4ab2-4133-a375-cc80f8f50e24" />
 
 ---
 
